@@ -14,4 +14,6 @@
     <img align="center" alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-Computer Science student at Univesity of Brasilia - 24.1
+Hi! I'm Artur N. and I'm graduating in Computer Science student at Univesity of Brasilia - 24.1
+-Currently learning Java, C, Python and Assembly.
+
